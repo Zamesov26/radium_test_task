@@ -1,0 +1,14 @@
+{
+    "ICENSE": "6546c9c8a3d20302c67610fe265485e57941ffc1e1764bfbef80caaff487d77b",
+    "README.md": "95c131815de049b8b2d7107f1e1073979e428e10f4539963387528dcb6e88d6b",
+    "nitpick": {
+        "all.toml": "0c184cfe115a886860c50ef57fcd82355f900beea5e5bf4cbfb608d88077be9a",
+        "darglint.toml": "2bb5bc76496ee874e0b5febaedaf204bfb7652b05ee5fc734f005eb42165da29",
+        "editorconfig.toml": "44b81691a1a419442137422e27e346fb6b3d01c31d7872f4947aef160c764592",
+        "file-structure.toml": "6aa9a2095c757872f40f89c0c50e45df3a189fcf7072f87bfff66b5cf5ea527f",
+        "flake8.toml": "0f7acddb3787ab1a92412462abcc9ad9f3ed7310c4ce7b312be28f31ed04bda6",
+        "isort.toml": "3ca03631bc5084b1c6cd75355212e0c2013328909a92b3178470cd9ef266951d",
+        "pytest.toml": "2000e559378ce9e88c0fd25768e575bb7b73137222d241d43905bf2703b1eff5",
+        "styleguide.toml": "05f53f7c947b15c2289c8fc09aeebef7ffe836ab540a440fd72710cc59fa3405"
+    }
+}
